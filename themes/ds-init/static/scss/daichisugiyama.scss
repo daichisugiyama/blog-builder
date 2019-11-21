@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+@import "bootstrap-4.0.0/bootstrap.scss";
+
+@import "setting/color";
+@import "setting/font";
+//@import "setting/size";
+
+//@import "scss/mixin/animation";
+//@import "scss/mixin/btn";
+//@import "scss/mixin/font";
+
+@import "module/navbar";
+@import "module/maincontent";
+@import "module/outline";
+@import "module/footer";
+
+@import "page/home";
+@import "page/section";
+@import "page/works";
+@import "page/backgrounds";
+@import "page/roles";
+@import "page/validation";
+@import "page/jounal";
+@import "page/resource";
+
+//@import "scss/plugins/**"
+

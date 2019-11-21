@@ -1,0 +1,6 @@
+[submodule "content"]
+	path = content
+	url = https://github.com/sugiyama-ars/markdown.git
+[submodule "themes/sugiyama"]
+	path = themes/sugiyama
+	url = https://github.com/sugiyama-ars/hugo-theme-sugiyama.git

@@ -1,0 +1,12 @@
+
+.rei-navbar {
+  background-color: #333;
+  float: 10px;
+  &__nav {
+    background-color: red;
+    float: 20px;
+  }
+  &__item {
+    background-color: blue;
+  }
+}

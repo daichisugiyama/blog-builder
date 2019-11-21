@@ -1,3 +1,6 @@
 baseURL = "https://daichisugiyama.com/"
 languageCode = "jp"
-title = "My New Hugo Site"
+title = "Daichi Sugiyama"
+theme = "sugiyama" 
+
+[Paramater]
