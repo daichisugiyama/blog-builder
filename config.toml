@@ -3,4 +3,7 @@ languageCode = "jp"
 title = "Daichi Sugiyama"
 theme = "sugiyama" 
 
-[Paramater]
+[params]
+  facebook = "https://www.facebook.com/daichi.sugiyama.2012"
+  #youtube = ""
+  email = "daichisugiyama@outlook.com"
