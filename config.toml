@@ -32,8 +32,8 @@ theme = "sugiyama"
     [[menu.global_header]]
         name = "RESULTS"
         url = "/results"
-        weight = 3
+        weight = 2
     [[menu.global_header]]
         name = "BLOG"
         url = "/blog"
-        weight = 2
+        weight = 3
