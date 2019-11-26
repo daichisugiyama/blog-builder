@@ -7,3 +7,57 @@ theme = "sugiyama"
   facebook = "https://www.facebook.com/daichi.sugiyama.2012"
   #youtube = ""
   email = "daichisugiyama@outlook.com"
+
+
+
+baseURL = "https://daichisugiyama.com/"
+title = "Segayama Blog"
+defaultContentLanguage = "ja"
+languageCode = "ja-jp"
+disablePathToLower = true
+hasCJKLanguage = true
+pluralizeListTitles = false
+pygmentsUseClasses = true
+pygmentsCodefences = true
+theme = "sugiyama"
+
+[outputs]
+    page = [ "HTML" , "AMP"  ]
+    
+[Params]
+    profile_image = "images/blank-profile.png"
+    eyecatch = "images/eyecache.jpg"
+    author = "Daichi Sugiyama"
+
+[taxonomies]
+    tag = "tags"
+
+[permalinks]
+    post = "/:section/:year/:month/:filename"
+
+[blackfriday]
+    hrefTargetBlank = true
+    nofollowLinks = true
+    extensionsmask = ["autolink"]
+
+[menu]
+    [[menu.global_header]]
+        name = "HOME"
+        url = "/"
+        weight = 1
+    [[menu.global_header]]
+        name = "WORKS"
+        url = "/works"
+        weight = 2
+    [[menu.global_header]]
+        name = "BLOG"
+        url = "/blog"
+        weight = 3
+    [[menu.global_header]]
+        name = "SERVICE"
+        url = "/service"
+        weight = 4
+    [[menu.global_header]]
+        name = "PROFILE"
+        url = "/profile"
+        weight = 5
