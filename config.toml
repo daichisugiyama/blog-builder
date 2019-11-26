@@ -1,5 +1,5 @@
 baseURL = "https://daichisugiyama.com/"
-title = "Segayama"
+title = "エンジニア杉山のBlog"
 defaultContentLanguage = "ja"
 languageCode = "ja-jp"
 disablePathToLower = true
@@ -15,7 +15,7 @@ theme = "sugiyama"
 [Params]
     profile_image = "images/blank-profile.png"
     eyecatch = "images/eyecache.jpg"
-    author = "杉山 大知（すぎやま だいち）"
+    author = "杉山大知（すぎやまだいち）"
 
 [taxonomies]
     tag = "tags"
@@ -30,10 +30,14 @@ theme = "sugiyama"
 
 [menu]
     [[menu.global_header]]
-        name = "RESULTS"
-        url = "/results"
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[menu.global_header]]
+        name = "Works"
+        url = "/works"
         weight = 2
     [[menu.global_header]]
-        name = "BLOG"
+        name = "Blog"
         url = "/blog"
         weight = 3
