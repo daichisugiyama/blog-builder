@@ -1,5 +1,5 @@
 baseURL = "https://daichisugiyama.com/"
-title = "Segayama Blog"
+title = "Segayama"
 defaultContentLanguage = "ja"
 languageCode = "ja-jp"
 disablePathToLower = true
@@ -15,7 +15,7 @@ theme = "sugiyama"
 [Params]
     profile_image = "images/blank-profile.png"
     eyecatch = "images/eyecache.jpg"
-    author = "Daichi Sugiyama"
+    author = "杉山 大知（すぎやま だいち）"
 
 [taxonomies]
     tag = "tags"
