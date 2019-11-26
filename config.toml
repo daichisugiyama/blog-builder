@@ -30,10 +30,6 @@ theme = "sugiyama"
 
 [menu]
     [[menu.global_header]]
-        name = "HOME"
-        url = "/"
-        weight = 1
-    [[menu.global_header]]
         name = "WORKS"
         url = "/works"
         weight = 2
