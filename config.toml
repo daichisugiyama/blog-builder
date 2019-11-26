@@ -1,16 +1,4 @@
 baseURL = "https://daichisugiyama.com/"
-languageCode = "jp"
-title = "Daichi Sugiyama"
-theme = "sugiyama" 
-
-[params]
-  facebook = "https://www.facebook.com/daichi.sugiyama.2012"
-  #youtube = ""
-  email = "daichisugiyama@outlook.com"
-
-
-
-baseURL = "https://daichisugiyama.com/"
 title = "Segayama Blog"
 defaultContentLanguage = "ja"
 languageCode = "ja-jp"
