@@ -13,9 +13,9 @@ theme = "sugiyama"
     page = [ "HTML" , "AMP"  ]
     
 [Params]
-    profile_image = "images/blank-profile.png"
+    profile_image = "images/profile.png"
     eyecatch = "images/eyecache.jpg"
-    author = "杉山大知（すぎやまだいち）"
+    author = "だいち"
 
 [taxonomies]
     tag = "tags"
