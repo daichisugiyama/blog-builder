@@ -13,8 +13,8 @@ theme = "sugiyama"
     page = [ "HTML" , "AMP"  ]
     
 [Params]
-    profile_image = "img/profile.png"
-    eyecatch = "img/eyecache.jpg"
+    profile_image = "images/profile.jpg"
+    eyecatch = "images/eyecache.jpg"
     author = "だいち"
 
 [taxonomies]
