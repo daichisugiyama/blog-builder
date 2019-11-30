@@ -15,7 +15,7 @@ theme = "sugiyama"
 [Params]
     profile_image = "images/profile.jpg"
     eyecatch = "images/eyecache.jpg"
-    author = "だいち"
+    author = "Daichi Sugiyama"
 
 [taxonomies]
     tag = "tags"
