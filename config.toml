@@ -15,7 +15,7 @@ theme = "sugiyama"
 [Params]
     profile_image = "images/profile.jpg"
     eyecatch = "images/eyecache.jpg"
-    author = "Daichi Sugiyama"
+    author = "すぎやまだいち"
 
 [taxonomies]
     tag = "tags"
@@ -30,14 +30,10 @@ theme = "sugiyama"
 
 [menu]
     [[menu.global_header]]
-        name = "Home"
-        url = "/"
-        weight = 1
-    [[menu.global_header]]
-        name = "Works"
+        name = "作品"
         url = "/works"
         weight = 2
     [[menu.global_header]]
-        name = "Blog"
+        name = "ブログ"
         url = "/blog"
         weight = 3
