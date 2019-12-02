@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-eyecache: "xxxxx.jpg"
+# eyecache: "images/xxxxx.jpg"
 tags: ["yyyyy", "zzzzz"]
 ---
 
