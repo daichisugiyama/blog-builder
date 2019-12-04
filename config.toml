@@ -30,8 +30,8 @@ theme = "sugiyama"
 
 [menu]
     [[menu.global_header]]
-        name = "制作物"
-        url = "/product"
+        name = "作品"
+        url = "/works"
         weight = 2
     [[menu.global_header]]
         name = "ブログ"
