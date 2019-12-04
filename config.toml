@@ -32,7 +32,7 @@ theme = "sugiyama"
 
 [menu]
     [[menu.global_header]]
-        name = "作品"
+        name = "作品集"
         url = "/works"
         weight = 2
     [[menu.global_header]]
