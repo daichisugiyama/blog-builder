@@ -23,6 +23,7 @@ theme = "sugiyama"
     tag = "tags"
 
 [permalinks]
+#    post = "/:section/:year/:month/:filename"
     post = "/:section/:year/:month/:filename"
 
 [blackfriday]
@@ -37,5 +38,5 @@ theme = "sugiyama"
         weight = 2
     [[menu.global_header]]
         name = "ブログ"
-        url = "/blog"
+        url = "/post"
         weight = 3
