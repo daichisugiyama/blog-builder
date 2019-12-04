@@ -17,6 +17,7 @@ theme = "sugiyama"
 #   eyecatch = "images/eyecache.jpg"
     author = "すぎやまだいち"
     author_en = "Daichi Sugiyama"
+    siteurl = "daichisugiyama.com"
 
 [taxonomies]
     tag = "tags"
