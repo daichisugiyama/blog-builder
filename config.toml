@@ -1,5 +1,5 @@
 baseURL = "https://daichisugiyama.com/"
-title = "杉山大知"
+title = "すぎやまだいち"
 defaultContentLanguage = "ja"
 languageCode = "ja-jp"
 disablePathToLower = true
@@ -32,10 +32,11 @@ theme = "sugiyama"
     extensionsmask = ["autolink"]
 
 [menu]
-    [[menu.global_header]]
-        name = "作品集"
-        url = "/works"
-        weight = 2
+#   [[menu.global_header]]
+#       name = "作品集"
+#       url = "/works"
+#       url = "/post/2019/12/works"
+#       weight = 2
     [[menu.global_header]]
         name = "ブログ"
         url = "/post"
